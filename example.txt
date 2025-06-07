@@ -1,1 +1,2 @@
-Meg created this fileGrey is my favorite color
+Meg created this file. 
+Grey is my favorite color. 
